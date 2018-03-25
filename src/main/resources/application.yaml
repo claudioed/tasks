@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+  application:
+    name: tasks-microservice
+server:
+  port: 7070
